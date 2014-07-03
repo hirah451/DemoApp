@@ -8,9 +8,10 @@
         android:id="@+id/textview_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="18sp"/>
+        android:textSize="18sp"
         android:text="default String"
         android:layout_gravity="center"
+        android:textColor="@color/HotPink"
         />
 
 </LinearLayout>
